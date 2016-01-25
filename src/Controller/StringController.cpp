@@ -17,8 +17,7 @@ StringController::StringController()
 
 void StringController::start()
 {
-
-}
+	cout << "" << cllassName [4] << endl
 void StringController :: getClassName(string className)
 {
 	this->className = className;
